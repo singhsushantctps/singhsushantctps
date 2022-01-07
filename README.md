@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**singhsushantctps/singhsushantctps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h1 align="center">Hello there! 👋🏻 I am,Sushant Kumar Singh</h1>
 <h3 align="center">I am Sushant Kumar 🙋🏻‍♂️, a Cook, Cricket Lover, Front End Architect & Web Developer Evangelist</h3>
